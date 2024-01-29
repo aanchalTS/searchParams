@@ -1,0 +1,17 @@
+.NewPage-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .NewPage-container h1 {
+    color: #333;
+  }
+  
+  .NewPage-container p {
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
