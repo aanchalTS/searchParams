@@ -2,6 +2,7 @@ import React from "react";
 import "./NewPage.css";
 
 function NewPage() {
+  
   return (
     <div className="about-container">
       <h1>About Us</h1>
